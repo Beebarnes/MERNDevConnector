@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://BrianDev:devBrian@devconnector.ctfvp.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "Bingpot"
+  "jwtSecret": "Bingpot",
+  "githubClientId": "70d1a04f0b3e3527d4fa",
+  "githubSecret": "b9e83074b9865cbc68adc8fe9f9602ebd3ffd987"
 }
